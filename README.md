@@ -36,14 +36,18 @@ In this part i'm defining all the hyperparameters and training both networks for
 #### Viewing results
 Below we can see the evolution of the generator images throught the epochs and some sampling from it.
 
-**Begining of first epoch**
+**Begining of first epoch:**
+
 ![alt text](https://github.com/cfcv/GAN_Faces/blob/master/photos/gan_face_0.png)
 
-**Middle of first epoch**
+**Middle of first epoch:**
+
 ![alt text](https://github.com/cfcv/GAN_Faces/blob/master/photos/gan_face_1.png)
 
-**Second epoch**
+**Second epoch:**
+
 ![alt text](https://github.com/cfcv/GAN_Faces/blob/master/photos/gan_face_2.png)
 
-**Last epoch**
+**Last epoch:**
+
 ![alt text](https://github.com/cfcv/GAN_Faces/blob/master/photos/gan_face_3.png)
